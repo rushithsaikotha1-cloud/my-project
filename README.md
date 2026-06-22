@@ -1,4 +1,4 @@
 # my-project
 my first github project.
 <br>
-Auther - Rushith Sai Kotha
+Author - Rushith Sai Kotha
